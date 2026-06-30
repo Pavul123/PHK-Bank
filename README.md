@@ -155,7 +155,25 @@ Then include them like:
 ```markdown
 ## Login Screen
 
-![Login](images/login.png)
+## 📸 Login Screen
+
+![Login](InternetBankingSystem/images/login.png)
+
+## 📸 Register
+
+![Register](InternetBankingSystem/images/register.png)
+
+## 📸 Dashboard
+
+![Dashboard](InternetBankingSystem/images/dashboard.png)
+
+## 📸 Transfer Money
+
+![Transfer](InternetBankingSystem/images/transfer.png)
+
+## 📸 Admin Dashboard
+
+![Admin](InternetBankingSystem/images/admin.png)
 
 ## Dashboard
 
