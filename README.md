@@ -152,34 +152,35 @@ images/admin.png
 
 Then include them like:
 
-```markdown
-## Login Screen
+# 📸 Screenshots
 
-## 📸 Login Screen
+## 🔐 Login Screen
 
 ![Login](InternetBankingSystem/images/login.png)
 
-## 📸 Register
+---
+
+## 📝 Register Screen
 
 ![Register](InternetBankingSystem/images/register.png)
 
-## 📸 Dashboard
+---
+
+## 📊 Dashboard
 
 ![Dashboard](InternetBankingSystem/images/dashboard.png)
 
-## 📸 Transfer Money
+---
 
-![Transfer](InternetBankingSystem/images/transfer.png)
+## 💸 Transfer Money
 
-## 📸 Admin Dashboard
+![Transfer Money](InternetBankingSystem/images/transfer.png)
 
-![Admin](InternetBankingSystem/images/admin.png)
+---
 
-## Dashboard
+## 👨‍💼 Admin Dashboard
 
-![Dashboard](images/dashboard.png)
-```
-
+![Admin Dashboard](InternetBankingSystem/images/admin.png)
 ---
 
 # 🏛 Architecture
