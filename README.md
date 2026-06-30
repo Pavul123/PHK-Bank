@@ -103,7 +103,7 @@ DBConnection.java
 ```java
 String url = "jdbc:mysql://localhost:3306/banking_db";
 String username = "root";
-String password = "root";
+String password = "****";
 ```
 
 ---
